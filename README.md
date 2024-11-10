@@ -1,2 +1,2 @@
 # ON-OFF-Lamp
-this mini project based on Html5, CSS3 and JavaScript also use event listener method  and button disable feature applied in it 
+A JavaScript-based project demonstrating dynamic state management with event listeners. This app toggles light images between "ON" and "OFF" states, using addEventListener to handle user clicks. Buttons are disabled based on the current state to prevent conflicting actions. This project highlights DOM manipulation, event-driven programming, and basic UI interaction, providing a practical example of responsive front-end development.
